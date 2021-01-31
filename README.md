@@ -1,3 +1,3 @@
 # CyberChef
-## Fork of [Nativefier](https://github.com/jiahaog/nativefier)
-# big thanks to [Jiahaog](https://github.com/jiahaog)
+## Fork of [CyberChef](https://github.com/gchq/CyberChef)
+# big thanks to [Gchq](https://github.com/Gchq)
